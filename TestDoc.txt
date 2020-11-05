@@ -1,0 +1,5 @@
+This is a test doc for git
+
+Line 2
+
+Line 3 
