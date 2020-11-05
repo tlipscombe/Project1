@@ -1,5 +1,7 @@
 This is a test doc for git
 
-Line 2
+Line 2 - changed
 
 Line 3 
+
+Line 4
